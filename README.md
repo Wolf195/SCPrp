@@ -9,6 +9,7 @@ Name: {Text}
 IGN: {Text}
 
 {Bug Name}
+
 {Bug Description}
 
 {How to recreate}
