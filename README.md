@@ -5,6 +5,7 @@ Format
 =-=-=-=-=-=-=-=-=-=-=-=
 
 Name: {Text}
+
 IGN: {Text}
 
 {Bug Name}
